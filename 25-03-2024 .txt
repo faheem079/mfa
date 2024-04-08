@@ -1,0 +1,47 @@
+Coding:
+	-Interaction between the human and the computer
+	-Interaction = Information Interchange
+	-Interaction needs a communication medium
+	-Programming Language is used as the Communication Medium
+
+
+COMPUTER:
+	C-Commonly
+	O-Operated
+	M-Machine
+	P-Particularly / Purposefully
+	U-Used for
+	T-Trade and
+	E-Educational
+	R-Research
+
+ASCII:
+	American Standard Code for Information Interchange
+	- Assigns an individual decimal number for all the keys in the keyboard
+	Ex:
+	ASCII Value for 	A = 65
+			a = 97
+			0 = 48
+
+Types of Computer Languages:
+	1.Highlevel Language		- Human understandale languages
+	2.Assembly Language	- Mnemonics
+	3.Lowlevel Language		- Machine/Computer understandable languages
+
+Number System:
+	2	Binary (0-1)	- Machine Language
+	8	Octal (0-7)	- Memory Management
+	10	Decimal(0-9)	- ASCII Value
+	16	Hexadecimal(0-f)	- Addressing
+		0-15
+		0-9 & a-f
+10-a
+11-b
+12-c
+13-d
+14-e
+15-f
+	a - Highlevel Language -> 01100001 - Machine Language
+
+1GB=1024MB
+1KM=1000Mts
